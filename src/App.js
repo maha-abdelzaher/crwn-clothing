@@ -28,7 +28,7 @@ componentDidMount() {
             ...snapShot.data()
           }
         });
-        console.log(this.state)
+        // console.log(this.state)
       });
     }
 
